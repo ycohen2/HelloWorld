@@ -5,7 +5,7 @@ public class Hello {
 		//12
 		System.out.println("Hello World!");
 		//2
-		//25
+		//2
 	}
 	
 }
