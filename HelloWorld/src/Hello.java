@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("Hello World!");
 		//2
 		//2
-		//local
+		//local1
 	}
 	
 }
